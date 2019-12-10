@@ -33,6 +33,7 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
+/.firebase/hosting.ZGlzdC9zdXBwbGVtZW50LXBhZ2U.cache
 
 # System Files
 .DS_Store
